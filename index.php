@@ -22,7 +22,7 @@
       <!-- Introduction section -->
             
               <div class="text-center" >
-                <img src="images/display.jpg" class="img-fluid p-0" style="width:100%; height : 50vh;">
+                <img src="images/dis.jpg" class="img-fluid p-0" style="width:100%; height : 60vh;">
               </div>
             </div>
 
